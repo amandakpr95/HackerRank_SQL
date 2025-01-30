@@ -1,4 +1,26 @@
-# Advanced Select
+<img Logo src="https://wizardsourcer.com/wp-content/uploads/2021/10/HackerRank-logo.png" width="100"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="100"> <img src="https://github.com/user-attachments/assets/85aa484a-7f87-4edd-81d3-a771dd03f27d" width ="50">
+
+
+# HackerRank's Advanced Select in SQL
+Hello! These are all my answers (with detailed comments explaining the code) for [HackerRank's Prepare SQL Advanced Select](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=advanced-select) Questions!
+Here you will learn some more intermediate functions in SQL, like:
+- CASE
+    - WHEN
+    - THEN
+    - ELSE
+- CONCAT
+- SUBSTRING
+- LOWER
+- GROUP BY
+- MAX
+- ROWNUMBER
+- JOIN
+- subquieries
+
+This is a great place to start your SQL journey! I highly recommend creating your own notebook (here I used Jupyter Notebooks), to take your own notes and personalize your code. 
+This is how I solved these queries, but it is absolutely not the only way to solve! Get creative!
+
+## Advanced Select
 Write a query identifying the type of each record in the TRIANGLES table using its three side lengths. Output one of the following statements for each record in the table:
   - Equilateral: It's a triangle with 3 sides of equal length.
   - Isosceles: It's a triangle with 2 sides of equal length.
@@ -31,7 +53,7 @@ FROM TRIANGLES;  --- get data from the table "TRIANGLES"
 
 ---
 
-# The PADS
+## The PADS
 Generate the following two result sets:
 
   1. Query an alphabetically ordered list of all names in OCCUPATIONS, immediately followed by the first letter of each profession as a parenthetical (i.e.: enclosed in parentheses). For example: AnActorName(A), ADoctorName(D), AProfessorName(P), and ASingerName(S).
@@ -76,7 +98,7 @@ ORDER BY COUNT(*) ASC, Occupation ASC;  --- order the results by the amount of e
 ```
 
 ---
-# Occupations
+## Occupations
 Pivot the Occupation column in OCCUPATIONS so that each Name is sorted alphabetically and displayed underneath its corresponding Occupation. The output should consist of four columns (Doctor, Professor, Singer, and Actor) in that specific order, with their respective names listed alphabetically under each column.
 
 Note: Print NULL when there are no more names corresponding to an occupation.
@@ -108,7 +130,7 @@ ORDER BY RowNumber;  --- order by "RowNumber" (i.e. unique occupations) alphabet
 ```
 
 ---
-# Binary Tree Nodes
+## Binary Tree Nodes
 You are given a table, BST, containing two columns: N and P, where N represents the value of a node in Binary Tree, and P is the parent of N.
 
 ![BINARY TREE EX](https://s3.amazonaws.com/hr-challenge-images/12888/1443773633-f9e6fd314e-simply_sql_bst.png)
@@ -136,7 +158,7 @@ ORDER BY N;  --- order the data by the nodes from lowest to highest.
 ```
 
 ---
-# New Companies
+## New Companies
 Amber's conglomerate corporation just acquired some new companies. Each of the companies follows this hierarchy:
 
 ![Amber's conglomerate corporation](https://s3.amazonaws.com/hr-challenge-images/19505/1458531031-249df3ae87-ScreenShot2016-03-21at8.59.56AM.png)
