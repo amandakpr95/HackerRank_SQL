@@ -6,6 +6,8 @@
 May I suggest [HackerRank!](https://www.hackerrank.com/domains/sql)
 HackerRank is a technology hiring platform that is the standard for assessing developer skills for over 3,000+ companies around the world.
 
-Also, they provided resources to learn SQL as well as many other coding languages commonly used in tech position!
+Also, they provided resources to learn SQL as well as many other coding languages commonly used in tech positions!
 
 Once you feel prepared enough, you can get certified as I have, to further demonstrate your coding abilities!
+
+In this repository, I have answered all of the Questions in HackerRank's Prepare SQL.
