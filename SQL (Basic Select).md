@@ -1,4 +1,24 @@
+<img Logo src="https://wizardsourcer.com/wp-content/uploads/2021/10/HackerRank-logo.png" width="100"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="100"> <img src="https://github.com/user-attachments/assets/85aa484a-7f87-4edd-81d3-a771dd03f27d" width ="50">
+
+
 # Basic Select
+Hello! These are all my answers (with detailed comments explaining the code) for [HackerRank's Prepare SQL Basic Select](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select) Questions!
+Here you will learn the very basics of SQL, like:
+- SELECT
+- FROM
+- WHERE
+- COUNT
+- DISTINCT
+- LENGTH
+- UNION
+- ORDER BY
+- LIMIT
+- LIKE
+- OPERATORS
+
+This is a great place to start your SQL journey! I highly recommend creating your own notebook (here I used Jupyter Notebooks), to take your own notes and personalize your code. 
+This is how I solved these queries, but it is absolutely not the only way to solve! Get creative!
+
 ## Revising the Select Query 1
 Query all columns for all American cities in the CITY table with populations larger than 100000. The CountryCode for America is USA.
 
