@@ -11,4 +11,4 @@ Also, they provided resources to learn SQL as well as many other coding language
 Once you feel prepared enough, you can get certified as I have, to further demonstrate your coding abilities!
 
 
-![Basic Certificate](https://github.com/amandakpr95/HackerRank_SQL/blob/main/sql_basic%20certificate.pdf)
+<img src= https://github.com/amandakpr95/HackerRank_SQL/blob/main/Intermediate%20Certificate.pdf width = 200>
