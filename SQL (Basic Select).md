@@ -1,7 +1,7 @@
 <img Logo src="https://wizardsourcer.com/wp-content/uploads/2021/10/HackerRank-logo.png" width="100"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="100"> <img src="https://github.com/user-attachments/assets/85aa484a-7f87-4edd-81d3-a771dd03f27d" width ="50">
 
 
-# Basic Select
+# HackerRank's Basic Select in SQL
 Hello! These are all my answers (with detailed comments explaining the code) for [HackerRank's Prepare SQL Basic Select](https://www.hackerrank.com/domains/sql?filters%5Bsubdomains%5D%5B%5D=select) Questions!
 Here you will learn the very basics of SQL, like:
 - SELECT
